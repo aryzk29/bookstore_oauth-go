@@ -1,3 +1,5 @@
+github.com/aryzk29/bookstore-utils-go v0.0.0-20220811082152-3d090d450707 h1:4WX/Js0Hl7j74gabs5Lsq6jl0n3Qa9zeCbT36Lob3mE=
+github.com/aryzk29/bookstore-utils-go v0.0.0-20220811082152-3d090d450707/go.mod h1:yeW7v0B7M4iOJMFg0UXMxKx/1Xn4nAY06m3kbWVisZU=
 github.com/aryzk29/go_course-bookstore_users-api v0.0.0-20220721070023-7ebd693e54a8 h1:dYKf2bB/c8FIgKoVNu4EXzfT128THexJ6SdNkV3fkbQ=
 github.com/aryzk29/go_course-bookstore_users-api v0.0.0-20220721070023-7ebd693e54a8/go.mod h1:EOvY9s79SvS2VjyRgmuNezlWogAvBoxsSgPsym7Kmxo=
 github.com/benbjohnson/clock v1.1.0/go.mod h1:J11/hYXuz8f4ySSvYwY0FKfm+ezbsZBKZxNJlLklBHA=
